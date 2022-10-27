@@ -1,0 +1,37 @@
+##
+# The Parent Teacher Meet - Madlib
+#
+# @ Alisha M
+# @date 2022/02/17 - LastModified
+##
+
+# Get inputs from the User
+cap_letter = input("Enter a capital letter: ")
+print(" ")
+number = input("Enter a number: ")
+print(" ")
+unit_of_time = input("Enter a unit of time in plural form: ")
+print(" ")
+adjective = input("Enter an adjective: ")
+print(" ")
+colour = input("Enter a colour: ")
+print(" ")
+number_of_pets = input("Enter a number greater than one: ")
+print(" ")
+pets = input("Enter an animal in plural form: ")
+print(" ")
+grade = input("Enter a number: ")
+print(" ")
+grade_total = input("Enter another number: ")
+print(" ")
+body_part = input("Enter a body part: ")
+
+
+# Tell your story here
+print(" ")
+print("Today I went in to visit my son's teacher to talk about his progress in English class." + " The teacher said he got a "+ grade  + " out of " + grade_total + " on the last test " + "and that he currently had a " + cap_letter + " in the class." +" I tried to explain to her that we'd been temporarily living at a hotel with our " + number_of_pets + " " + adjective + " "+ colour +  " " + pets + " which distrupted his learning." + " She said she understood and she'd give him a break for now; but to improve his skills I could help by reading to him for " + number + " "  + unit_of_time + " every morning." + " I agreed wrapping up the meeting, then I shook her " + body_part + " and left!" )
+print(" ")
+print("The End")
+
+
+
